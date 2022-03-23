@@ -15,10 +15,10 @@ This is an app that allows the user to look up their favorite books using the Go
 * [License](#license)
 
 ## Installation
-Installation: Currently you will need to download the app and doing an NPM install. once the modules necessary are installed, use 'npm run develop' to get both the server and app running
+To test this offline, you can download the repo, run an 'npm install' and then run 'npm run develop' (currently there are some GraphQL issues)
 
 ## Usage
-Search for books using the search bar and press save whenever a book catches your eye (you may only save books once you make an account and log in)
+Heroku Link:https://book-search-engine-900.herokuapp.com/
 
 ## Test
 Download the app and run it!
